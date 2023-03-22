@@ -1,0 +1,8 @@
+.env
+.env.test
+build
+node_modules
+desktop.ini
+.vscode
+.idea
+.gitkeep
